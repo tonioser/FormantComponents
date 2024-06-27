@@ -16,7 +16,7 @@ Any use of this code should cite this paper.
 
 ### Dependencies
 
-Developped with Matlab R2022b but should run on earlier versions. It may use several several toolbox.
+Developped with Matlab R2022b but should run on earlier versions. It may use several several toolbox.\
 It also makes use of the [Toolbox Fast Marching](https://uk.mathworks.com/matlabcentral/fileexchange/6110-toolbox-fast-marching), included in this repository.
 
 ### Installing
