@@ -6,8 +6,8 @@ Characterises the articulatory strategies implemented by users to vary each form
 
 This code corresponds to the results described in:
 
-Antoine Serrurier and Christiane Neuschaefer-Rube (2024, in review)
-Formant-based articulatory strategies: characterisation and inter-speaker variability analysis
+Antoine Serrurier and Christiane Neuschaefer-Rube (2024, in review)\
+*Formant-based articulatory strategies: characterisation and inter-speaker variability analysis*\
 Journal of Phonetics
 
 Any use of this code should cite this paper.
@@ -16,7 +16,8 @@ Any use of this code should cite this paper.
 
 ### Dependencies
 
-Developped with Matlab R2022b but should run on earlier versions.
+Developped with Matlab R2022b but should run on earlier versions. It may use several several toolbox.
+It also makes use of the [Toolbox Fast Marching](https://uk.mathworks.com/matlabcentral/fileexchange/6110-toolbox-fast-marching), included in this repository.
 
 ### Installing
 
